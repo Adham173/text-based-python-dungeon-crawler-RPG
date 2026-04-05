@@ -1,4 +1,4 @@
-# ⚔️ Python OOP Dungeon Crawler 1.0
+# Python OOP Dungeon Crawler 1.0
 
 ### Project Overview
 This is a multi-file, text-based RPG engine developed from scratch. This project focuses on **OOP principles** and utilizes dynamic memory management to handle game states, character inheritance, and unique boss/player mechanics.
